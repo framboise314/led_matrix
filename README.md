@@ -7,11 +7,7 @@ Journal lumineux, matrices de LED 8x8, MAX7219 - Scrolling LED matrix display - 
 Ce journal a été démarré pour servir de démonstration lors de la journée Raspberry Pi
 au CERN à Genève le 12 avril 2014.
 
-.. image:: https://raw.github.com/framboise314/led_matrix/master/docs/img_01.jpg
-
-    :alt: Le journal lumineux en action
-    
-    :align: center
+->![Le journal lumineux en action](https://raw.github.com/framboise314/led_matrix/master/docs/img_01.jpg)<-
 
 ##Prérequis
 Ce programme est destiné à l'utilisation sur un Raspberry Pi avec un système d'exploitation Raspbian.
